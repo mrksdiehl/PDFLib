@@ -16,7 +16,7 @@
 
 */
 
-namespace ImalH\PDFLib;
+namespace Mrksdiehl\PDFLib;
 
 
 class PDFLib{
